@@ -1,4 +1,4 @@
-I'll provide a comprehensive overview of the project.
+Deployed URL:  https://react-hosting-supreme.web.app
 
 Project Setup
 Built with Vite + React + TypeScript
